@@ -1,13 +1,13 @@
 # Mood Logger App
-- A Streamlit-based internal tool that logs support ticket mood data and visualizes trends using Google Sheets as a backend. 
-- Designed for Ops and Support teams to track and visualize emotional trends
+- Internal tool that logs support tickets, description, mood and visualizes trends using Google Sheets as a backend
+- Designed for Ops and Support teams to track and visualize emotional trends of customers
 
 
 ## Features
 
 - **Log a New Mood**  
-  - Users can enter a short note describing tthe ticket and select a mood from a set of labeled options  
-  - Each entry is saved to a connected Google Sheet with a auto-e=generated timestamp and ticket number
+  - Users can enter a short note describing the ticket and select a mood from a set of labeled options  
+  - Each entry is saved to a connected Google Sheet with a auto-generated timestamp and ticket number
 
 - **View Mood Summary**  
   - See an overall mood distribution for:
