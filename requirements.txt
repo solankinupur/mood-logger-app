@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+gspread
+google-auth
+wordcloud
+matplotlib
+scikit-learn
+streamlit-plotly-events
+
+#Update
