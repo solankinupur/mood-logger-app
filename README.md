@@ -25,5 +25,5 @@
 
 ---
 
-## 📄 Backing Google Sheet  
+## Backing Google Sheet  
 [View Sheet](https://docs.google.com/spreadsheets/d/1i-eIaNNWcFnI7jG9B7eK5suSgBDuvuf1bQw3wamODTs/edit?pli=1&gid=0#gid=0)
